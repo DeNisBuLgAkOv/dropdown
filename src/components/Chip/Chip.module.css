@@ -1,0 +1,23 @@
+.chip_container {
+    background: #F4F4F4;
+    border-radius: 8px;
+    width: 114px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    color: #333333;
+    line-height: 12px;
+    padding: 0 12px;
+
+    margin-right: 4px;
+}
+
+.chip_margin {
+    margin-top: 4px;
+}

@@ -1,0 +1,47 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  background: #eaeaea;
+}
+
+.russia_icon {
+  background-image: url('./assest/icons/Group7.png');
+}
+
+.spanish_icon {
+  background-image: url('./assest/icons/Group3.png');
+}
+
+.english_icon {
+  background-image: url('./assest/icons/Group2.png');
+}
+
+.german_icon {
+  background-image: url('./assest/icons/Group4.png');
+}
+
+.poland_icon {
+  background-image: url('./assest/icons/Group6.png');
+}
+
+.italy_icon {
+  background-image: url('./assest/icons/Group5.png');
+}
+
+.checkbox_on {
+  background-image: url('./assest/icons/Checkbox-onn.png');
+ 
+}
+
+.checkbox_off {
+  background-image: url('./assest/icons/Checkbox-off.png');
+}

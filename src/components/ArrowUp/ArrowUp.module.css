@@ -1,0 +1,13 @@
+.arrow_icon {
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+}
+
+.arrow_icon_up {
+    transform: rotate(180deg);
+}
+
+.arrow_icon_down {
+    transform: rotate(0deg);
+}

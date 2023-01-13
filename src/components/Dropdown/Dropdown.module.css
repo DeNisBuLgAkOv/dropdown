@@ -1,0 +1,17 @@
+.orders_seleced {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.announcement {
+    border-bottom: 1px solid rgb(226, 226, 226);
+    width: 400px;
+    border: 1px solid #C1C1C1;
+    background: #FFFFFF;
+    border-radius: 10px;
+    display: flex;
+    padding: 7px 10px 9px 10px;
+    min-height: 40px;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
